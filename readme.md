@@ -13,5 +13,13 @@ typst c <filename>
 
 whereas `<filename>` is the name of the file that you want to compile.
 
+You can also compile using `make`. Make sure you have an sh-compatible
+shell environment (you could use `git-bash` on Windows) and installed `make`.
+You can compile using the following command:
+
+```sh
+make
+```
+
 Compiling however requires the `MetaPro` font. You can get a copy of it
 at [online-fonts.com](https://online-fonts.com/fonts/metapro).
