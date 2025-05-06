@@ -1,6 +1,4 @@
-# Translink Diagrams
-
-A collection of translink diagrams.
+![banner-art](./readme-banner-art.png)
 
 ## Compiling
 
