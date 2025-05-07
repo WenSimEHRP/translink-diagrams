@@ -45,6 +45,6 @@ result in a \$173 fine.
   box(
     height: 4cm,
     width: 10cm,
-    image("translink.png"),
+    image("../translink.png"),
   ),
 )

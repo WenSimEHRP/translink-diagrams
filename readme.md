@@ -1,4 +1,4 @@
-![banner-art](./readme-banner-art.png)
+![banner-art](./misc/readme-banner-art.png)
 
 ## Compiling
 

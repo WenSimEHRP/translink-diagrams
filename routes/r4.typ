@@ -1,4 +1,4 @@
-#import "mod.typ": *
+#import "../mod.typ": *
 #import "r4_data.typ": *
 #set text(font: "MetaPro", features: ("lnum",), size: 12pt)
 #set page(
@@ -44,3 +44,4 @@
   end: 24 * 3600,
   ..settings,
 )
+

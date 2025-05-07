@@ -47,7 +47,7 @@
       box(
         height: 4cm,
         width: 10cm,
-        image("translink.png"),
+        image("../translink.png"),
       ),
     )
   ],

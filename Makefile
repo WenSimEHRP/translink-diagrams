@@ -9,4 +9,4 @@ clean:
 	rm -f $(PDF_FILES)
 
 %.pdf: %.typ Makefile translink.png
-	typst c $<
+	typst c $< --root .
